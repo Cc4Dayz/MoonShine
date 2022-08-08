@@ -10,6 +10,7 @@ this project is for educational purposes only.
 made by students in HIT - Holon Institute of Technology.
 
 By : Cc4Dayz and oranmor9.
+https://github.com/oranmor9/MoonShine
 
 In addition we have built a sight that uses the mashine learning :
 https://moonshineweb.netlify.app/
